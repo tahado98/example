@@ -1,2 +1,1 @@
-# example
-Mickyy
+# Huong dan Git
